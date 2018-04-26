@@ -5,14 +5,18 @@ Multithreaded python server used to serve files in a directory.Threading is used
 
 **Requirements:-**
               
-              **1**.socketserver(Python 3.*) or SocketServer(Python 2.7)
+              1.socketserver(Python 3.*) or SocketServer(Python 2.7)
               
-              **2**.http.server(Python 3.*) or BaseHTTPServer(Python 2.7)
+              2.http.server(Python 3.*) or BaseHTTPServer(Python 2.7)
               
 All the above packages comes pre-installed with respective python versions.
 
 **For more details:-**
+
 https://docs.python.org/3/library/socketserver.html
+
 https://docs.python.org/3/library/http.server.html
+
 https://docs.python.org/2/library/socketserver.html
+
 https://docs.python.org/2/library/basehttpserver.html
